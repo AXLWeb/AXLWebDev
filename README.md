@@ -1,17 +1,14 @@
 ## 👋 Hi, my name is Alex! 
-Software engineer passionate for a nice & accesible web for anyone. Javascript is my first language, I work with cutting-edge technologies to deliver amazing UX ❤️ 
+Software engineer passionate for a nice and accesible web for everyone. Javascript is my first language, I work with cutting-edge technologies to deliver amazing UX ❤️ 
 
-
-- 💻 I like building scalable applications, improving and optimizing systems. 
+- 💻 I build scalable applications, improving and optimizing systems. 
 - 📜 Advocate for open source, Cloud computing :cloud: , DevOps 🚀, Innovation :new:  and Automation :robot: 
 - :bulb: I'm interested in all web developmement related topics: **Big Data, Cloud, PWA / SPA**
 - 🤜🤛 Team player 
-- 💬 Talk to me about AI and ML 🤖, Movies 🎥, Games 👾, Photography 📸 and music 🎵
-
+- 💬 Talk to me about AI & ML 🤖, Movies 🎥, Games 👾, Photography 📸 and music 🎵
 
 
 ## 🛠 My Tech Stack
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -36,7 +33,6 @@ Software engineer passionate for a nice & accesible web for anyone. Javascript i
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=square&logo=php&logoColor=white)
 
 
-
 ## 📖 Now learning a bit more 💻
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=square&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=square&logo=vuedotjs&logoColor=%234FC08D)
@@ -47,9 +43,7 @@ Software engineer passionate for a nice & accesible web for anyone. Javascript i
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=square)
 
 
-
 ## 📬 Get in touch 
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/AXLWebDev?label=Follow)](https://twitter.com/intent/follow?screen_name=AXLWebDev)
 [![Linkedin: AXLWebDev](https://img.shields.io/badge/-axlweb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axlweb/)](https://www.linkedin.com/in/axlweb/)
 [![GitHub AXLWebDev](https://img.shields.io/github/followers/axlweb?label=follow&style=social)](https://github.com/AXLWeb)
