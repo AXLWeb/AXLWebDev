@@ -3,7 +3,7 @@ Software engineer passionate for a nice and accesible web for everyone. Javascri
 
 - 💻 I build scalable applications, improving and optimizing systems. 
 - 📜 Advocate for open source, Cloud computing :cloud: , DevOps 🚀, Innovation :new:  and Automation :robot: 
-- :bulb: I'm interested in all web developmement related topics: **Big Data, Cloud, PWA / SPA**
+- :bulb: I'm interested in all web developmement related topics: **Web components, microservices, PWA / SPA, Big Data, Cloud**
 - 🤜🤛 Team player 
 - 💬 Talk to me about AI & ML 🤖, Movies 🎥, Games 👾, Photography 📸 and music 🎵
 
