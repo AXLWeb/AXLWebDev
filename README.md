@@ -38,7 +38,6 @@ Software engineer passionate for a nice and accesible web for everyone. Javascri
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=square&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=square&logo=mongodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=square&logo=mongodb)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=square)
 
