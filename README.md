@@ -14,7 +14,7 @@ Software engineer passionate for a nice and accesible web for everyone. Javascri
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=square&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=square&logo=reactivex&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=square&logo=reactivex&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=square&logo=bootstrap&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=square&logo=less&logoColor=white)
