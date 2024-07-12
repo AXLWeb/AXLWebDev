@@ -1,5 +1,6 @@
 ## 👋 Hi, my name is Alex! 
-Software engineer passionate for a nice and accesible web for everyone. Javascript is my first language, I work with cutting-edge technologies to deliver amazing UX ❤️ 
+Nearing a decade of expertise as a Software Developer, I bring a proven track record of leading front-end development, enhancing product quality, and promoting software architecture standards. 
+I'm a results-oriented, customer-centric professional with a passion for innovation and a commitment to delivering exceptional software solutions ❤️ 
 
 - 💻 I build scalable applications, improving and optimizing systems. 
 - 📜 Advocate for open source, Cloud computing :cloud: , DevOps 🚀, Innovation :new:  and Automation :robot: 
