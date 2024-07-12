@@ -20,6 +20,7 @@ You can see my employment history in more detail in my [LinkedIn profile](https:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=square&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=square&logo=reactivex&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-%23C43A1D?style=square&logo=jest&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=square&logo=bootstrap&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=square&logo=less&logoColor=white)
