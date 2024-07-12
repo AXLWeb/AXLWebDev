@@ -9,7 +9,8 @@ Nearing a decade of expertise as a Software Developer, I bring a proven track re
 
 I am passionate about AI and ML, Filmmaking and an accessible web for everyone.
 
-You can see my employment history in more detail in my [LinkedIn profile](linkedin.com/in/axlweb/details/experience/)
+You can see my employment history in more detail in my [LinkedIn profile](https://linkedin.com/in/axlweb/details/experience/)
+
 
 
 ## 🛠 My Tech Stack
