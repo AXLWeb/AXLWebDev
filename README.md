@@ -7,6 +7,10 @@ Nearing a decade of expertise as a Software Developer, I bring a proven track re
 - 🤜🤛 Team player.
 - 💬 Talk to me about AI & ML, Movies, Games, Photography and music.
 
+I am passionate about AI and ML, Filmmaking and an accessible web for everyone.
+
+You can see my employment history in more detail in my [LinkedIn profile](linkedin.com/in/axlweb/details/experience/)
+
 
 ## 🛠 My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=square&logo=html5&logoColor=white)
