@@ -34,7 +34,7 @@ I'm a results-oriented, customer-centric professional with a passion for innovat
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=square&logo=php&logoColor=white)
 
 
-## 📖 Now learning a bit more 💻
+## 📖 Now learning a bit more
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=square&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=square&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=square&logo=node.js&logoColor=white)
