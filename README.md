@@ -1,12 +1,11 @@
 ## 👋 Hi, my name is Alex! 
-Nearing a decade of expertise as a Software Developer, I bring a proven track record of leading front-end development, enhancing product quality, and promoting software architecture standards. 
-I'm a results-oriented, customer-centric professional with a passion for innovation and a commitment to delivering exceptional software solutions ❤️ 
+Nearing a decade of expertise as a Software Developer, I bring a proven track record of leading front-end development, enhancing product quality, and promoting software architecture standards. I'm a results-oriented, customer-centric professional with a passion for innovation and a commitment to delivering exceptional software solutions.
 
-- 💻 I build scalable applications, improving and optimizing systems. 
-- 📜 Advocate for open source, Cloud computing :cloud: , DevOps 🚀, Innovation :new:  and Automation :robot: 
-- :bulb: I'm interested in web developmement related topics: **Web components, microservices, PWA / SPA, Big Data, Cloud**
-- 🤜🤛 Team player 
-- 💬 Talk to me about AI & ML 🤖, Movies 🎥, Games 👾, Photography 📸 and music 🎵
+- 💻 I build scalable applications, improving and optimizing systems.
+- 📜 Advocate for open source, Cloud computing , DevOps, Innovation and Automation.
+- 💡 I'm interested in web developmement related topics like: **Web components, microservices, PWA / SPA, Big Data, Cloud**.
+- 🤜🤛 Team player.
+- 💬 Talk to me about AI & ML, Movies, Games, Photography and music.
 
 
 ## 🛠 My Tech Stack
