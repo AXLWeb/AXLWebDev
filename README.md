@@ -3,7 +3,7 @@ Nearing a decade of expertise as a Software Developer, I bring a proven track re
 
 - 💻 I build scalable applications, improving and optimizing systems.
 - 📜 Advocate for open source, Cloud computing , DevOps, Innovation and Automation.
-- 💡 I'm interested in web developmement related topics like: **Web components, microservices, PWA / SPA, Big Data, Cloud**.
+- 💡 I'm interested in web developmement related topics: Web components, microservices, WCAG...
 - 🤜🤛 Team player.
 - 💬 Talk to me about AI & ML, Movies, Games, Photography and music.
 
