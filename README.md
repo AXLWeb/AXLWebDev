@@ -37,14 +37,14 @@ You can see my employment history in more detail in my [LinkedIn profile](https:
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=square&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=square&logo=prettier&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=square&logo=mongodb)
 
 
 ## 📖 Now learning a bit more
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=square&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=square&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=square&logo=mongodb)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=square)
 
 
